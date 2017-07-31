@@ -1,0 +1,88 @@
+body {
+    background: #953e46;
+}
+.container {
+    width: 970px;
+    margin: 0 auto;
+}
+.logo {
+    float: left;
+    width: 235px;
+    height: 73px;
+    color: #f4e3cf;
+}
+.logo h1{
+    margin: 0px;
+}
+.search {
+    float: left;
+    width: 380px;
+    height: 73px;
+}
+.search input {
+    width: 380px;
+    height: 40px;
+}
+.upload {
+    float: left;
+    width: 100px;
+    height: 50px;
+    background-color: #f4e3cf;
+    margin: 0px 0px 0px 24px;
+}
+.upload i, p {
+    display: inline;
+}
+.upload i {
+    line-height: 45px;
+    text-align: center;
+    margin: 0px 10px;
+}
+.account {
+    float: left;
+    width: 50px;
+    height: 50px;
+    background-color: #f4e3cf;
+    margin: 0px 15px;
+    line-height: 50px;
+    text-align: center;
+}
+.ad {
+    float: left;
+    width: 90px;
+    height: 73px;
+    margin: 0px;
+    color: #f4e3cf;
+}
+.ad h2, h3 {
+    display: inline;
+    margin: 0px;
+}
+.header_down {
+    width: 865px;
+    height: 50px;
+}
+.header_down, ul, li {
+    display: inline-block;
+   
+}
+.header_down ul {
+    border-bottom: 2px solid #f4e3cf;
+    border-top: 2px solid #f4e3cf;
+    color: #f4e3cf;
+    width: 865px;
+    height: 50px;
+    
+}
+.header_down ul li {
+    width: 13%;
+    height: 60px;
+    line-height: 45px;
+    
+}
+.videos {
+    width: 600px;
+    height: 300px;
+    background-color: #f4e3cf;
+    border: #f4e3cf;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo"><h1>SocialNetwork</h1>
+            </div>
+            <div class="search">
+                <input type="find"placeholder="find...">
+            </div>
+            <div class="upload">
+                <i class="fa fa-arrow-up" aria-hidden="true" ></i>
+                <p>Upload</p>
+            </div>
+            <div class="account">
+                <i class="fa fa-user" aria-hidden="true"></i>
+            </div>
+            <div class="ad">
+                <h2>Waseem</h2><br>
+                <h3>Arshad</h3>
+            </div>
+
+        </div>
+        <div class="header_down">
+            <ul>
+                <li><h3>Videos</h3></li>  /
+                <li><h3>People</h3></li>  /
+                <li><h3>Documents</h3></li>  /
+                <li><h3>Events</h3></li>  /
+                <li><h3>Communities</h3></li>  /
+                <li><h3>Favorites</h3></li>  /
+                <li><h3>Channels</h3></li>
+            </ul>
+        </div>
+        <div class="content">
+            <div class="Videos"></div>
+            <div class="Activity"></div>
+            <div class="People"></div>
+            <div class="Channels"></div>
+            <div class="Documents"></div>
+
+        </div>
+    </div>
+</body>
+</html>
